@@ -4,7 +4,7 @@
 # Copyright (C) 2010 - 2020 Alfred E. Heggestad
 #
 
-DEPLOYMENT_TARGET_VERSION=6.0
+DEPLOYMENT_TARGET_VERSION=10.0
 
 #
 # path to external source code
